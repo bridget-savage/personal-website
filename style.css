@@ -1,0 +1,28 @@
+p {
+    font-size: 1.2em
+}
+
+.background{
+    background-image: url("https://cascadewater.org/wp-content/uploads/2017/04/LakeTapps.jpg");
+    zoom: 100%;
+    height: 87vh;
+}
+.items {
+    color: royalblue;
+    width: 10vh;
+    height: 10vh;
+    padding: 2em;
+    background-color: lightblue;
+    margin: 2em;
+}
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.name {
+
+}
